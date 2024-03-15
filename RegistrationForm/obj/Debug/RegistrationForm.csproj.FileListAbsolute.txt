@@ -1,0 +1,10 @@
+C:\Users\Индира\source\repos\Lab2Ypr1\RegistrationForm\bin\Debug\RegistrationForm.exe.config
+C:\Users\Индира\source\repos\Lab2Ypr1\RegistrationForm\bin\Debug\RegistrationForm.exe
+C:\Users\Индира\source\repos\Lab2Ypr1\RegistrationForm\bin\Debug\RegistrationForm.pdb
+C:\Users\Индира\source\repos\Lab2Ypr1\RegistrationForm\obj\Debug\RegistrationForm.Form1.resources
+C:\Users\Индира\source\repos\Lab2Ypr1\RegistrationForm\obj\Debug\RegistrationForm.Properties.Resources.resources
+C:\Users\Индира\source\repos\Lab2Ypr1\RegistrationForm\obj\Debug\RegistrationForm.csproj.GenerateResource.cache
+C:\Users\Индира\source\repos\Lab2Ypr1\RegistrationForm\obj\Debug\RegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\Индира\source\repos\Lab2Ypr1\RegistrationForm\obj\Debug\RegistrationForm.exe
+C:\Users\Индира\source\repos\Lab2Ypr1\RegistrationForm\obj\Debug\RegistrationForm.pdb
+C:\Users\Индира\source\repos\Lab2Ypr1\RegistrationForm\obj\Debug\RegistrationForm.csproj.AssemblyReference.cache

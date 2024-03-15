@@ -1,0 +1,10 @@
+C:\Users\Индира\source\repos\Lab2Ypr1\TestList\bin\Debug\TestList.exe.config
+C:\Users\Индира\source\repos\Lab2Ypr1\TestList\bin\Debug\TestList.exe
+C:\Users\Индира\source\repos\Lab2Ypr1\TestList\bin\Debug\TestList.pdb
+C:\Users\Индира\source\repos\Lab2Ypr1\TestList\obj\Debug\TestList.csproj.AssemblyReference.cache
+C:\Users\Индира\source\repos\Lab2Ypr1\TestList\obj\Debug\TestList.Form1.resources
+C:\Users\Индира\source\repos\Lab2Ypr1\TestList\obj\Debug\TestList.Properties.Resources.resources
+C:\Users\Индира\source\repos\Lab2Ypr1\TestList\obj\Debug\TestList.csproj.GenerateResource.cache
+C:\Users\Индира\source\repos\Lab2Ypr1\TestList\obj\Debug\TestList.csproj.CoreCompileInputs.cache
+C:\Users\Индира\source\repos\Lab2Ypr1\TestList\obj\Debug\TestList.exe
+C:\Users\Индира\source\repos\Lab2Ypr1\TestList\obj\Debug\TestList.pdb

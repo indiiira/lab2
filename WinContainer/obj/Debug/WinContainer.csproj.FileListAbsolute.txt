@@ -1,0 +1,10 @@
+C:\Users\Индира\source\repos\Lab2Ypr1\WinContainer\bin\Debug\WinContainer.exe.config
+C:\Users\Индира\source\repos\Lab2Ypr1\WinContainer\bin\Debug\WinContainer.exe
+C:\Users\Индира\source\repos\Lab2Ypr1\WinContainer\bin\Debug\WinContainer.pdb
+C:\Users\Индира\source\repos\Lab2Ypr1\WinContainer\obj\Debug\WinContainer.csproj.AssemblyReference.cache
+C:\Users\Индира\source\repos\Lab2Ypr1\WinContainer\obj\Debug\WinContainer.Form1.resources
+C:\Users\Индира\source\repos\Lab2Ypr1\WinContainer\obj\Debug\WinContainer.Properties.Resources.resources
+C:\Users\Индира\source\repos\Lab2Ypr1\WinContainer\obj\Debug\WinContainer.csproj.GenerateResource.cache
+C:\Users\Индира\source\repos\Lab2Ypr1\WinContainer\obj\Debug\WinContainer.csproj.CoreCompileInputs.cache
+C:\Users\Индира\source\repos\Lab2Ypr1\WinContainer\obj\Debug\WinContainer.exe
+C:\Users\Индира\source\repos\Lab2Ypr1\WinContainer\obj\Debug\WinContainer.pdb

@@ -1,0 +1,9 @@
+C:\Users\Индира\source\repos\Lab2Ypr1\Lab2Ypr1\bin\Debug\Lab2Ypr1.exe.config
+C:\Users\Индира\source\repos\Lab2Ypr1\Lab2Ypr1\bin\Debug\Lab2Ypr1.exe
+C:\Users\Индира\source\repos\Lab2Ypr1\Lab2Ypr1\bin\Debug\Lab2Ypr1.pdb
+C:\Users\Индира\source\repos\Lab2Ypr1\Lab2Ypr1\obj\Debug\Lab2Ypr1.Form1.resources
+C:\Users\Индира\source\repos\Lab2Ypr1\Lab2Ypr1\obj\Debug\Lab2Ypr1.Properties.Resources.resources
+C:\Users\Индира\source\repos\Lab2Ypr1\Lab2Ypr1\obj\Debug\WinQuestion.csproj.GenerateResource.cache
+C:\Users\Индира\source\repos\Lab2Ypr1\Lab2Ypr1\obj\Debug\WinQuestion.csproj.CoreCompileInputs.cache
+C:\Users\Индира\source\repos\Lab2Ypr1\Lab2Ypr1\obj\Debug\Lab2Ypr1.exe
+C:\Users\Индира\source\repos\Lab2Ypr1\Lab2Ypr1\obj\Debug\Lab2Ypr1.pdb
